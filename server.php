@@ -17,7 +17,7 @@ if(isset($_POST['submit_B']) == 'POST'){
     $comment = $_POST['comment'];
 
 
-/*validateinput();*/
+validateinput();
 //Inserting to Database
 
 $sql = "INSERT INTO userdata (user_name,email,catagory,comment) VALUES ('$user_name','$email','$choose','$comment')";
