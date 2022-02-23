@@ -1,0 +1,51 @@
+
+body{
+    background: rgba(4, 4, 129, 0.281);
+}
+h2{
+    text-align: center;
+    font-weight: 100;
+    font-family:roboto;
+    color: rgb(27, 26, 26);
+    padding:20px;
+
+}h2.Infor{
+
+    font-weight: 100;
+    font-family:roboto;
+    color: rgb(27, 26, 26);
+    font-size: 13px;
+
+}
+
+main{
+    width: 400px;
+    margin: 0 auto;
+}
+.container{
+
+    margin-top: 70px;
+}
+.error{
+    color: red;
+    font-weight: 100;
+    font-size: 13px;
+    text-align: center;
+}
+.inputs{
+    background: none;
+    border-radius: 5px;
+    border: 1px solid navy;
+    padding: 15px;
+    width: 100%;
+    margin-top: 8px;
+}
+.selection-c{
+    background:#000080;
+    border-radius: 5px;
+    border: 1px solid navy;
+    padding: 10px;
+    color: rgb(183, 175, 221);
+    margin-top: 8px;
+   
+}
